@@ -2,7 +2,7 @@
 
 # Hey, I'm Saksham 👋
 
-### Aspiring Data Engineer | Python, SQL, ETL & Data Analytics
+### Data Engineer , Analyst and Cloud Professional | Python, SQL, ETL & Data Analytics
 
 <p>
   <a href="https://github.com/sxkshmgit"><img src="https://img.shields.io/badge/GitHub-sxkshmgit-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
