@@ -113,14 +113,12 @@ I try to keep the **raw layer traceable**, transformations reproducible, and fin
 
 ---
 
-## 📈 GitHub Activity
+## 📌 Featured Work
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sxkshmgit&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxkshmgit&layout=compact&hide_border=true" height="165" alt="Top languages">
-
-</div>
+| Project | What it demonstrates |
+|---|---|
+| [FPS Sale Transaction Scraper](https://github.com/sxkshmgit/FPS-SCRAPER) | Python, Selenium, web extraction, raw JSON, ETL and data cleaning |
+| [SQL Data Warehouse](https://github.com/sxkshmgit/SQL-Data-Warehouse) | SQL Server, Bronze/Silver/Gold architecture, dimensional modeling and analytics |
 
 ---
 
