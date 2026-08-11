@@ -32,7 +32,7 @@ I'm currently strengthening my Python skills and exploring **AI engineering and 
 
 ## 🛠️ Tech Stack
 
-**Data & Analytics**
+** Data & Analytics **
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
