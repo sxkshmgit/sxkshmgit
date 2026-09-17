@@ -1,15 +1,16 @@
 <div align="center">
 
-# Hey, I'm Saksham! 👋
+# Hey, I'm Saksham 👋
 
-### Data Engineer , Analyst and Cloud Professional | Python, SQL, ETL & Data Analytics
+### Python Developer | AI Software Engineering | Data Engineering
 
 <p>
   <a href="https://github.com/sxkshmgit"><img src="https://img.shields.io/badge/GitHub-sxkshmgit-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/saksham-kumar7"><img src="https://img.shields.io/badge/LinkedIn-Saksham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:saksham.skp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-> I enjoy turning messy data into reliable pipelines, structured datasets, and useful insights.
+> Python developer currently building backend skills with FastAPI, while exploring Generative AI, LLMs, AI agents, and Data Engineering.
 
 </div>
 
@@ -17,35 +18,51 @@
 
 ## 🧭 About Me
 
-I'm focused on building practical data engineering skills — from **extracting and cleaning raw data** to **SQL-based transformation, data warehousing, and analytics**.
+I'm a Python Developer currently working as a **Python Intern**, focused on strengthening my backend and software engineering fundamentals.
 
-I'm currently strengthening my Python skills and exploring **AI engineering and LLM-based applications** alongside my data engineering work.
+Alongside backend development, I'm building toward **AI Software Engineering** and continuing to develop my **Data Engineering** foundation.
 
-- 🐍 Python for automation and data workflows
+- 🐍 Python development and backend engineering
+- ⚡ FastAPI and REST API development
+- 🤖 Generative AI, LLMs and AI-powered applications
+- 🧠 Exploring AI agents and LLM-based systems
 - 🗄️ SQL, ETL/ELT and data warehousing
-- 📊 Power BI and analytical reporting
-- ☁️ Exploring cloud and modern data platforms
-- 🤖 Learning AI/LLM engineering
-- 🧠 Practicing DSA and problem solving
+- 📊 Power BI and data analytics
+- ☁️ Exploring cloud technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-** Data & Analytics **
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Backend & Software Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Data & Analytics
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Engineering**
+### AI — Exploring
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+`Generative AI` · `LLMs` · `AI Agents` · `LLM Applications` · `Machine Learning`
+
+### Cloud — Exploring
+
+`Microsoft Azure` · `AWS`
 
 ---
 
@@ -55,22 +72,35 @@ I'm currently strengthening my Python skills and exploring **AI engineering and 
 <tr>
 <td width="50%" valign="top">
 
+### 🗂️ Task Manager API
+
+A beginner-friendly task management application built with **Python and FastAPI**, with a simple web frontend.
+
+**Python · FastAPI · Pydantic · REST API · HTML · CSS · JavaScript**
+
+Features include CRUD operations, validation, filtering, sorting, status management, partial updates, timestamps, CORS, and Swagger/OpenAPI documentation.
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏪 FPS Sale Transaction Scraper
 
-A Selenium-based data pipeline that extracts Fair Price Shop transaction data from the IMPDS portal, preserves FPS-level raw JSON, and transforms nested portal data into an analysis-ready dataset.
+A Selenium-based data pipeline that extracts Fair Price Shop transaction data, preserves raw JSON, and transforms nested portal data into an analysis-ready dataset.
 
 **Python · Selenium · ETL · Data Cleaning**
 
 <a href="https://github.com/sxkshmgit/FPS-SCRAPER">View project →</a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🗄️ SQL Data Warehouse
 
 A layered SQL Server warehouse demonstrating raw ingestion, data cleansing, transformation, dimensional modeling, and business-ready analytical structures.
 
-**SQL Server · T-SQL · ETL · Data Warehousing**
+**SQL Server · T-SQL · ETL · Data Warehousing · Power BI**
 
 <a href="https://github.com/sxkshmgit/SQL-Data-Warehouse">View project →</a>
 
@@ -80,88 +110,45 @@ A layered SQL Server warehouse demonstrating raw ingestion, data cleansing, tran
 
 ---
 
-## 🔄 My Data Engineering Workflow
+## 🎯 Current Direction
 
 ```text
-       ┌──────────────┐
-       │  Raw Sources │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    Extract   │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │ Clean & QA   │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │ Transform    │
-       │ & Model      │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │ Analyze / BI │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   Insights   │
-       └──────────────┘
+Python & Backend
+       ↓
+FastAPI & API Development
+       ↓
+SQL & Data Engineering
+       ↓
+Cloud & Scalable Systems
+       ↓
+Generative AI & LLMs
+       ↓
+AI Agents & AI-Powered Applications
 ```
 
-I try to keep the **raw layer traceable**, transformations reproducible, and final datasets easy to consume.
+My goal is to build practical software that combines **strong backend engineering, reliable data systems, and modern AI capabilities**.
 
 ---
 
-## 📌 Featured Work
+## 📚 Currently Learning
 
-| Project | What it demonstrates |
-|---|---|
-| [FPS Sale Transaction Scraper](https://github.com/sxkshmgit/FPS-SCRAPER) | Python, Selenium, web extraction, raw JSON, ETL and data cleaning |
-| [SQL Data Warehouse](https://github.com/sxkshmgit/SQL-Data-Warehouse) | SQL Server, Bronze/Silver/Gold architecture, dimensional modeling and analytics |
-
----
-
-<details>
-<summary><b>🎯 What I'm learning</b></summary>
-<br>
-
-Building stronger end-to-end data workflows with Python and SQL while gradually moving deeper into AI engineering, LLMs, and cloud technologies.
-
-</details>
-
-<details>
-<summary><b>⚙️ Things I enjoy building</b></summary>
-<br>
-
-- Data pipelines
-- SQL transformations
-- Data warehouses
-- Web scrapers and automation
-- Analytics dashboards
-- Small tools that solve real problems
-- Experiments with AI and LLMs
-
-</details>
-
-<details>
-<summary><b>🚀 What I'm looking for</b></summary>
-<br>
-
-Opportunities around **data engineering, analytics engineering, backend/data systems, or Python-based automation** where I can contribute while continuing to grow.
-
-</details>
+- FastAPI and backend architecture
+- Git and GitHub workflows
+- SQL and data engineering
+- Cloud fundamentals
+- Generative AI and LLM applications
+- AI agents and tool-using systems
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-If you're working on something interesting around **data, engineering, analytics, or AI**, feel free to reach out.
-
-📧 **[saksham.skp@gmail.com](mailto:saksham.skp@gmail.com)**
+- LinkedIn: [Saksham Kumar](https://www.linkedin.com/in/saksham-kumar7)
+- GitHub: [@sxkshmgit](https://github.com/sxkshmgit)
+- Email: [saksham.skp@gmail.com](mailto:saksham.skp@gmail.com)
 
 <div align="center">
 
-### ⚡ Build. Break. Learn. Repeat.
+### ⚡ Build. Learn. Experiment. Repeat.
 
 </div>
